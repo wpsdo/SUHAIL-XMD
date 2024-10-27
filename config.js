@@ -7,7 +7,7 @@ global.audio= "" ;
 global.video= "" ;
 global.port =process.env.PORT 
 global.appUrl=process.env.APP_URL || ""     // put your deploy app/bot url here, for 24/7 for (render , koyeb, glitch)
-global.email ="millian2992@gmail.com"
+global.email ="joispdx@gmail.com"
 global.location="Africa,Lagos."
 
 
